@@ -6,5 +6,9 @@ This app allows you to view all employees in a company's roster pulled from an A
 
 # Installation
 
-Either run npm install and npm install axios or access the deployed heroku link @ 
+Either run npm install and npm install axios or access the deployed heroku link @ https://late-summer-nights.herokuapp.com/
+
+
+#Pictures of application
+ ![employee directory](build/deployedapp.png)
 
